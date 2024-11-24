@@ -1,4 +1,5 @@
-# covra_felix
+# Python Projects
 
-simple python calculator
-with Gui enabled
+** simple python calculator
+** simple scienttific calculator
+** sorting processor
